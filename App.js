@@ -24,7 +24,7 @@ function SettingsScreen() {
 function VersusScreen(){
   return(
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>Versus</Text>
+      <Text>Versus!</Text>
     </View>
   )
 }
